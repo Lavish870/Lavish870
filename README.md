@@ -14,20 +14,6 @@
 
 <br/>
 
-<a href="https://github.com/Lavish870">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/Lavishh1603">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.linkedin.com/in/lavish-sharma-3239ab286/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Lavish870&style=flat-square&color=222222&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -168,6 +154,7 @@ An upcoming cloud-based IoT project. Repository coming soon.
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lavish870&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0" alt="Most Used Languages"/>
 </a>
 
+
 </div>
 
 ---
@@ -201,6 +188,10 @@ An upcoming cloud-based IoT project. Repository coming soon.
 <a href="mailto:work.lovishsharma870@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Lavish870&style=flat-square&color=222222&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
