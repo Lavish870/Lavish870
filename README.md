@@ -1,9 +1,32 @@
 
+<!-- ======================================================
+     LAVISH SHARMA | GITHUB PROFILE
+     Monochrome / Editorial / Creative Developer Identity
+====================================================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=LAVISH%20SHARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=14&descColor=A3A3A3&descAlignY=72" />
+# LAVISH SHARMA
 
-<p><em>Somewhere between logic and limitless possibilities.</em></p>
+### FULL STACK DEVELOPER
+
+*Somewhere between logic and limitless possibilities.*
+
+<br/>
+
+<a href="https://github.com/Lavish870">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/Lavishh1603">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.linkedin.com/in/lavish-sharma-3239ab286/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Lavish870&style=flat-square&color=222222&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -11,118 +34,126 @@
 
 ## About Me
 
-I'm Lavish, a Full Stack Developer passionate about building meaningful digital experiences.
+I'm Lavish, a BCA student and Full Stack Developer passionate about building meaningful digital experiences.
 
-I enjoy exploring the intersection of software engineering, modern web technologies and creative design. From developing full-stack applications to experimenting with unique ideas, I love turning imagination into functional products.
+I enjoy exploring the intersection of software engineering, modern web technologies and creative design. From developing full-stack applications to experimenting with unconventional ideas, I love turning imagination into functional products.
 
-Currently learning, building, experimenting and finding new ways to create.
+- Developing full-stack web applications.
+- Exploring software architecture and modern technologies.
+- Experimenting with UI/UX and creative coding.
+- Learning by building real-world projects and solving problems.
+
+**Currently:** Learning, building and exploring what's possible through code.
 
 ---
 
 ## Technologies & Tools
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### Languages
 
-<h3>01 / Languages</h3>
-<img src="https://skillicons.dev/icons?i=py,c,js&theme=dark" height="48" alt="Python, C and JavaScript"/>
-<br/>
-<sub>Python · C · JavaScript</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,js&theme=dark" alt="Python, C, JavaScript"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### Frontend Development
 
-<h3>02 / Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" height="48" alt="HTML, CSS, React and Next.js"/>
-<br/>
-<sub>HTML5 · CSS3 · React · Next.js</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="HTML5, CSS3, React, Next.js"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Backend Development
 
-<h3>03 / Backend & APIs</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="48" alt="Node.js and Express"/>
-<br/>
-<sub>Node.js · Express.js</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### Database & Services
 
-<h3>04 / Database & Services</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" height="48" alt="MongoDB and Firebase"/>
-<br/>
-<sub>MongoDB · Firebase</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" alt="MongoDB, Firebase"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### Development Tools
 
-<h3>05 / Development Environment</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Git, GitHub and VS Code"/>
-<br/>
-<sub>Git · GitHub · Visual Studio Code</sub>
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+</p>
 
 ---
 
 ## Selected Projects
 
-<div align="center">
+A collection of things I've built, ideas I've explored and experiences I've brought to life.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<p><sub>01 / SIMULATION & HAPTICS</sub></p>
+<p align="left"><sub>01 / SIMULATION & HAPTICS</sub></p>
 
 <a href="https://github.com/Lavish870/GearShifters-Simulator">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lavish870&repo=GearShifters-Simulator&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=292929" alt="GearShifters Simulator repository"/>
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Lavish870&repo=GearShifters-Simulator&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&border_color=303030" alt="GearShifters Simulator"/>
 </a>
 
-<p><sub>A controller-only gear-shifting simulator featuring haptic feedback to recreate a tactile car and engine experience.</sub></p>
+<p>
+A controller-only gear-shifting simulator featuring haptic feedback to recreate the tactile sensation of a car and its engine.
+</p>
+
+<p><sub>CONTROLLER · SIMULATION · HAPTICS</sub></p>
+
+<p><a href="https://github.com/Lavish870/GearShifters-Simulator">Explore repository ↗</a></p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<p><sub>02 / DEVELOPER ECOSYSTEM</sub></p>
+<p align="left"><sub>02 / DEVELOPER ECOSYSTEM</sub></p>
 
 <a href="https://github.com/Lavish870/APICosmos">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lavish870&repo=APICosmos&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=292929" alt="APICosmos repository"/>
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Lavish870&repo=APICosmos&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&border_color=303030" alt="APICosmos"/>
 </a>
 
-<p><sub>An API marketplace where users can publish their APIs and discover and access APIs shared by others.</sub></p>
+<p>
+An API marketplace where users can publish their APIs, discover APIs from others and access shared endpoints.
+</p>
+
+<p><sub>API · MARKETPLACE · WEB DEVELOPMENT</sub></p>
+
+<p><a href="https://github.com/Lavish870/APICosmos">Explore repository ↗</a></p>
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
 
-<p><sub>03 / CREATIVE EXPRESSION</sub></p>
+<p align="left"><sub>03 / CREATIVE EXPRESSION</sub></p>
+
+<div align="center">
 
 <a href="https://github.com/Lavish870/SRK-Birthday-2026">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lavish870&repo=SRK-Birthday-2026&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=292929" alt="SRK Special repository"/>
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/pin/?username=Lavish870&repo=SRK-Birthday-2026&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&border_color=303030" alt="SRK Special"/>
 </a>
 
-<p><sub>An ASCII-art-style birthday tribute to Shah Rukh Khan, created with a touch of creativity.</sub></p>
+<p>
+An ASCII-art-style birthday tribute dedicated to Shah Rukh Khan, bringing programming and creativity together.
+</p>
+
+<p><sub>ASCII ART · CREATIVE CODING · SRK</sub></p>
+
+<a href="https://github.com/Lavish870/SRK-Birthday-2026">Explore repository ↗</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-### Currently in development
+### Currently in Development
 
 **IoT Cloud Service**
 
-An upcoming project. Repository coming soon.
+An upcoming cloud-based IoT project. Repository coming soon.
 
 ---
 
@@ -130,9 +161,12 @@ An upcoming project. Repository coming soon.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lavish870&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=292929" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish870&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3" alt="Most used languages"/>
+<a href="https://github.com/Lavish870">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Lavish870&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/Lavish870">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lavish870&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B0B0B0" alt="Most Used Languages"/>
+</a>
 
 </div>
 
@@ -142,27 +176,30 @@ An upcoming project. Repository coming soon.
 
 <div align="center">
 
-<p>Open to conversations, ideas, collaborations and interesting projects.</p>
+*Open to conversations, creative collaborations and interesting ideas.*
+
+<br/>
 
 <a href="https://github.com/Lavish870">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://x.com/Lavishh1603">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lavish-sharma-3239ab286/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
+
 <br/><br/>
 
 <a href="https://www.instagram.com/aimer_460/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:work.lovishsharma870@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
 
 </div>
