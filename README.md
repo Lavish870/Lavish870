@@ -137,9 +137,15 @@ An ASCII-art-style birthday tribute dedicated to Shah Rukh Khan, bringing progra
 
 ### Currently in Development
 
-**IoT Cloud Service**
+<p align="left"><sub>04 / COLLABORATIVE PROJECT · IN PROGRESS</sub></p>
 
-An upcoming cloud-based IoT project. Repository coming soon.
+**[IoT Cloud Service](https://github.com/Lavish870/iot-cloud-service)**
+
+A collaborative cloud-based IoT project currently under active development. The work is ongoing, with features and implementation evolving as the project takes shape.
+
+<p><sub>IOT · CLOUD SERVICES · COLLABORATION · WORK IN PROGRESS</sub></p>
+
+<p><a href="https://github.com/Lavish870/iot-cloud-service">Explore repository ↗</a></p>
 
 ---
 
